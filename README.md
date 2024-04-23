@@ -1,3 +1,3 @@
-this is my first practice project
-pure HTMLL/CSS 
-few lines js only for responsived menu
+This is my first practice project.
+which is written with pure htmll/css
+and a few short lines of vanilla js.
